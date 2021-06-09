@@ -2,4 +2,12 @@
     "baseUrl": "https://www.google.com/",
     "experimentalFetchPolyfill": true
   }
-  
+ 
+{
+  "integrationFolder": "cypress/integration/test/",
+  "reporter": "junit",
+  "reporterOptions": {
+    "mochaFile": "tests/test-output-[hash].xml",
+    "toConsole": true,
+    "attachments": true
+  },
