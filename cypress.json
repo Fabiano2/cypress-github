@@ -1,5 +1,5 @@
 {
-  "integrationFolder": "cypress/integration/test/first_test.js",
+  "integrationFolder": "cypress-github/integration/test/first_test.js",
   "baseUrl": "https://www.google.com/",
   "projectId": "09689e43-117e-4962-926d-808cc3dfe3db",
   "reporter": "junit",
